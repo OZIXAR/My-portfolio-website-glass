@@ -6,4 +6,4 @@ All files, from this repository you can use only for your own non-commercial use
 Copyright (c) 2022 github.com/OZIXAR
 
 Site photo:: 
-https://cdn.discordapp.com/attachments/1002500845641924618/1046564971573682286/image.png
+![image](https://user-images.githubusercontent.com/93466171/204165227-b471f92d-9ffd-428d-8b53-54c0995fc472.png)
